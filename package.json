@@ -1,0 +1,14 @@
+{
+  "name": "handtrackerdemo",
+  "version": "1.0.0",
+  "description": "tracks your hand with tensorflow.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hansa",
+  "license": "ISC",
+  "dependencies": {
+    "handtrackjs": "0.0.13"
+  }
+}
